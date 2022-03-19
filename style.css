@@ -1,0 +1,13 @@
+@media (min-width: 768px){
+    .news-input {
+      width: 50%; 
+    }
+}
+.background-image{
+  background-image: url('images/lilw.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.designer__image{
+  width: 100px;
+}
